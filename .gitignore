@@ -3,6 +3,7 @@ node_modules/
 
 # Logs
 *.log
+.cache
 npm-debug.log*
 
 # Editors and IDEs
