@@ -1,16 +1,17 @@
-# Dependency directories
-node_modules/
-
-# Logs
+/coverage
+/src/client/shared.ts
+/src/node/shared.ts
 *.log
-.cache
-npm-debug.log*
-
-# Editors and IDEs
-.idea/
-.vscode/
-*.sublime-workspace
-
-# Operating System
+*.tgz
 .DS_Store
-Thumbs.db
+.idea
+.temp
+.vite_opt_cache
+.vscode
+dist
+cache
+temp
+examples-temp
+node_modules
+pnpm-global
+TODOs.md
